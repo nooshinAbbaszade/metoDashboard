@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "IRANSansFaNum", serif !important;
+}
+
+@font-face {
+    font-family: 'IRANSansFaNum';
+    src: local('IRANSansFa'), url(./Fonts/IRANSansFaNum.ttf) format('truetype');
+}
